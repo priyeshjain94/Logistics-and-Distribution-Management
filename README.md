@@ -1,4 +1,4 @@
-![Image of Plot](images/Final Report-01.PNG)
+![Image of Plot](images/Final Report-01.png)
 ![Image of Plot](images/Slide1.png)
 ![Image of Plot](images/Slide1.png)
 ![Image of Plot](images/Slide1.png)
