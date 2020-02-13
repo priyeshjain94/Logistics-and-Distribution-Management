@@ -1,5 +1,4 @@
-
-![Image of Plot](images/Silde1.png)
+![Image of Plot](images/Slide1.png)
 ![Image of Plot](images/Slide3.png)
 ![Image of Plot](images/Slide4.png)
 ![Image of Plot](images/Slide5.png)
